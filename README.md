@@ -1,21 +1,19 @@
+![](https://komarev.com/ghpvc/?username=nishichowdhury1911-cyber&label=Profile%20Views&color=blue&style=flat)
 # Hi there, I'm Rubina Akter
 <p align="center">
   <img src="https://raw.githubusercontent.com/nishichowdhury1911-cyber/nishichowdhury1911-cyber/main/pickahu_hi.gif" width="120">
 </p>
 
-![](https://komarev.com/ghpvc/?username=nishichowdhury1911-cyber&label=Profile%20Views&color=blue&style=flat)
-
 ### Aspiring Data Analyst | SQL • Excel • Power BI • Python
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nishichowdhury1911-cyber/nishichowdhury1911-cyber/main/girls_typing_background.gif" width="700">
-</p>
 
 I am an aspiring Data Analyst with a background in **Geography & Environment** and over three years of experience in **retail sales, customer relationship management, inventory management, and business operations**.
 
 My journey into Data Analytics began during my undergraduate studies in Geography & Environment. While working with **Geographic Information Systems (GIS)** and tools such as **ArcGIS**, I became fascinated by how data can reveal patterns, support decision-making, and solve real-world problems.
 
 Today, I am combining my analytical foundation from Geography & Environment with real-world business experience to build a career in Data Analytics.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishichowdhury1911-cyber/nishichowdhury1911-cyber/main/girls_typing_background.gif" width="700">
+</p>
 
 ---
 
