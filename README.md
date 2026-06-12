@@ -1,18 +1,21 @@
-# Hi there, I'm Rubina Akter 👋
+# Hi there, I'm Rubina Akter
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishichowdhury1911-cyber/nishichowdhury1911-cyber/main/pickahu_hi.gif" width="120">
+</p>
 
 ![](https://komarev.com/ghpvc/?username=nishichowdhury1911-cyber&label=Profile%20Views&color=blue&style=flat)
 
 ### Aspiring Data Analyst | SQL • Excel • Power BI • Python
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishichowdhury1911-cyber/nishichowdhury1911-cyber/main/girls_typing_background.gif" width="700">
+</p>
+
 I am an aspiring Data Analyst with a background in **Geography & Environment** and over three years of experience in **retail sales, customer relationship management, inventory management, and business operations**.
 
-My journey into Data Analytics began during my undergraduate studies in Geography & Environment. While working with **Geographic Information Systems (GIS)** and tools such as **ArcGIS**, I became fascinated by how data can reveal patterns, support decision-making, and solve real-world problems. Exploring spatial data, maps, and environmental datasets inspired me to look beyond visualization and understand the analytical processes behind data-driven insights.
+My journey into Data Analytics began during my undergraduate studies in Geography & Environment. While working with **Geographic Information Systems (GIS)** and tools such as **ArcGIS**, I became fascinated by how data can reveal patterns, support decision-making, and solve real-world problems.
 
-Alongside my academic journey, my professional experience in retail allowed me to work closely with customers, sales performance, inventory management, and business operations. Every day, I observed customer behavior, purchasing trends, and business performance metrics. This sparked my curiosity about how organizations use data to understand customer needs, improve operational efficiency, and make strategic decisions.
-
-Today, I am combining my analytical foundation from Geography & Environment with real-world business experience to build a career in Data Analytics. I am currently pursuing a Data Analyst Job-Ready Bootcamp focused on SQL, Excel, Power BI, Python, Business Analytics, Customer Analytics, Supply Chain Analytics, and Healthcare Analytics.
-
-My goal is to transform raw data into meaningful insights that help organizations make smarter and more informed decisions.
+Today, I am combining my analytical foundation from Geography & Environment with real-world business experience to build a career in Data Analytics.
 
 ---
 
@@ -38,7 +41,6 @@ My goal is to transform raw data into meaningful insights that help organization
 - Data Engineering Fundamentals
 - Cloud Analytics
 - Analytics Case Studies
-- Industry Best Practices
 
 🌱 **Currently Learning**
 - PostgreSQL
@@ -57,7 +59,6 @@ My goal is to transform raw data into meaningful insights that help organization
 - Customer Behavior Analysis
 - Sales Performance Analytics
 - GIS & Spatial Data
-- Career Transition into Data Analytics
 
 ⚡ **Fun Fact**
 - My passion for data started with maps and spatial analysis in ArcGIS and grew even stronger while analyzing customer behavior and sales performance in retail operations.
@@ -82,17 +83,10 @@ My goal is to transform raw data into meaningful insights that help organization
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ### Business Intelligence & Reporting
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
@@ -100,9 +94,8 @@ My goal is to transform raw data into meaningful insights that help organization
 
 ### 🎓 B.Sc. in Geography & Environment
 **Government Shaheed Suhrawardy College**  
-Affiliated with the **University of Dhaka**
+**University of Dhaka**
 
-**Areas of Interest**
 - Geographic Information Systems (GIS)
 - ArcGIS
 - Spatial Analysis
@@ -127,6 +120,10 @@ Affiliated with the **University of Dhaka**
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishichowdhury1911-cyber/nishichowdhury1911-cyber/main/progress_bunny_motivation.gif" width="500">
+</p>
+
 ## 🎯 2026 Goals
 
 - Complete Data Analyst Bootcamp
@@ -134,10 +131,13 @@ Affiliated with the **University of Dhaka**
 - Master SQL and Power BI
 - Strengthen Python for Data Analytics
 - Learn Advanced Data Visualization
-- Contribute to Open Source Analytics Projects
-- Secure a Data Analyst or Business Intelligence Analyst Role
+- Secure a Data Analyst or BI Analyst Role
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishichowdhury1911-cyber/nishichowdhury1911-cyber/main/cat_typing.gif" width="180">
+</p>
 
 ## 📊 GitHub Stats
 
@@ -164,6 +164,10 @@ Affiliated with the **University of Dhaka**
 > Computer Scientist, U.S. Navy Rear Admiral, and Programming Pioneer
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishichowdhury1911-cyber/nishichowdhury1911-cyber/main/running.gif" width="300">
+</p>
 
 ## 🤝 Thank You for Visiting
 
